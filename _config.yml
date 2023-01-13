@@ -30,7 +30,7 @@ instagram_username:  maqumba
 
 # Build settings
 theme: jekyll-theme-hydejack
-#remote_theme: hydecorp/hydejack@v9
+
 plugins:
   - jekyll-feed
 
