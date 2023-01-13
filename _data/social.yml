@@ -1,8 +1,8 @@
 # This file contains meta data for various social media sites
 email:
-  name: Email
+  name: MaQuMBA2023
   icon: icon-mail
-  prepend: 'mailto:'
+  prepend: 'mailto:quantumconference@iitis.pl'
 amazon:
   name: Amazon
   icon: icon-amazon
