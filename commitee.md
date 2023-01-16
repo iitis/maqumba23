@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Commitee
-permalink: /maqumba23/commitee/
+permalink: /commitee
 ---
 ## Program committee:
 

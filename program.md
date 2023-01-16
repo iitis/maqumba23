@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Program
-permalink: /maqumba23/program/
+permalink: /program
 ---
 |                   |Monday| Tuesday| Wednesday  | Thursday  | Friday  |
 |:-----------------:|:-----------:|:---------------:|---------------:|

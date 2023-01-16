@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Invited Speakers
-permalink: /maqumba23/IS/
+permalink: /IS
 ---
 (potential list)
 
