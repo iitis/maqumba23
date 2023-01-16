@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Logistics
-permalink: /accomodation/
+permalink: /maqumba23/accomodation/
 ---
 ### Accomodation
 * 100 EUR per person per night (hotel).
