@@ -9,7 +9,7 @@ permalink: /IS/
 
 ### Wojciech Hubert Zurek
 
-### Antoin Zeilinger
+### Anton Zeilinger
 
 ### Artur Ekert
 
