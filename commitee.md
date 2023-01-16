@@ -41,3 +41,5 @@ permalink: /commitee/
 
 * Łukasz Pawela - Institute of Theoretical and Applied Informatics, Polish Academy of Sciences
 
+* Akram Touil - University of Maryland, Baltimore County
+

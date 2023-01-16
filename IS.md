@@ -7,6 +7,8 @@ permalink: /IS/
 
 ### Marek Żukowski
 
+### Wojciech Hubert Zurek
+
 ### Antoin Zeilinger
 
 ### Artur Ekert
