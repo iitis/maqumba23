@@ -23,7 +23,7 @@ email: quantumconference@iitis.pl
 description: >- # this means to ignore newlines until "baseurl:"
   ## Moroccan Allegence for Quantum, Machine learning, Business, and Applications.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://iitis.github.io/maqumba23/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 twitter_username: maqumba
 instagram_username:  maqumba
@@ -45,13 +45,13 @@ copyright:             © 2023. All rights reserved.
 
 menu:
   - title: Invited Speakers
-    url:  /IS/  
+    url:  /maqumba23/IS/  
   - title: Commitee
-    url:   /commitee/
+    url:   /maqumba23/commitee/
   - title: Program
-    url:   /program/
+    url:   /maqumba23/program/
   - title: Logistics
-    url:   /accomodation/
+    url:   /maqumba23/accomodation/
 
 
 
