@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Program
-permalink: /program
+permalink: /program/
 ---
 |                   |Monday| Tuesday| Wednesday  | Thursday  | Friday  |
 |:-----------------:|:-----------:|:---------------:|---------------:|
