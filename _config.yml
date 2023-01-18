@@ -22,7 +22,9 @@ title: MAQuMBA 2023
 email: quantumconference@iitis.pl
 description: >- # this means to ignore newlines until "baseurl:"
   ## Moroccan Allegence for Quantum, Machine learning, Business, and Applications.
+  
   ## 08-12 May, 2023
+  
 baseurl: "/maqumba23" # the subpath of your site, e.g. /blog
 url: "https://iitis.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
