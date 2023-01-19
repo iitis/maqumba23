@@ -21,6 +21,6 @@ permalink: /IS/
 
 ### Sebastian Deffner
 
-### Saverio Pastacio 
+### Saverio Pascazio 
 
 ### Giorgio Parisi
