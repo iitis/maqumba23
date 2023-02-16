@@ -7,10 +7,6 @@ permalink: /commitee/
 
 * Morad El Baz - Mohammed V University in Rabat
 
-* Rachid Guerraoui - Mohammed VI Polytechnic University
-
-* Mustapha Hedabou - Mohammed VI Polytechnic University,
-
 * Paweł Horodecki - Gdańsk University of Technology
 
 * Marek Kuś - Center for Theoretical Physics, Polish Academy of Sciences
