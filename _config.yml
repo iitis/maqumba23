@@ -23,7 +23,7 @@ email: quantumconference@iitis.pl
 description: >- # this means to ignore newlines until "baseurl:"
   ## Moroccan Alliance for Quantum, Machine learning, Business, and Applications.
   
-  ## 12-16 June, 2023. Mohammed VI Polytechnic University in Benguerir, Morocco.
+  ## September, 2023. Faculty of Sciences in Rabat, Morocco.
   
 baseurl: "/maqumba23" # the subpath of your site, e.g. /blog
 url: "https://iitis.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -42,7 +42,7 @@ font: Playfair Display
 font_heading: Playfair Display
 google_fonts: Playfair+Display:400|Playfair+Display:600
 
-accent_image:          /assets/img/blog/um6p.jpeg
+accent_image:          /assets/img/blog/rabat.jpg
 
 copyright:             © 2023. All rights reserved.
 
