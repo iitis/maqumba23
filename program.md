@@ -18,4 +18,3 @@ permalink: /program/
 | 16:00-16:30 |  |       |    |   |   |
 | 16:30-17:00 | COFFEE | COFFEE | COFFEE | COFFEE  |  COFFEE   |
 
-Plus: trip to Marakesh during the weekend
