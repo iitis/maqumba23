@@ -21,8 +21,6 @@
 title: Quantum Morocco
 email: quantumconference@iitis.pl
 description: >- # this means to ignore newlines until "baseurl:"
-  ## Quantum Morocco.
-  
   ## 18-22 September, 2023. Faculty of Sciences in Rabat, Morocco.
   
 baseurl: "/maqumba23" # the subpath of your site, e.g. /blog
