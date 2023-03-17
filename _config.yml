@@ -23,7 +23,7 @@ email: quantumconference@iitis.pl
 description: >- # this means to ignore newlines until "baseurl:"
   ## 18-22 September, 2023. Faculty of Sciences in Rabat, Morocco.
   
-baseurl: "/qmorocco/" # the subpath of your site, e.g. /blog
+baseurl: "/qmorocco" # the subpath of your site, e.g. /blog
 url: "https://iitis.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 twitter_username: maqumba
