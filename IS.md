@@ -5,10 +5,13 @@ permalink: /IS/
 ---
 
 
-# Wojciech Zurek*
-# David Girolami
-# Fabio Anza
+Wojciech Zurek*
 
+David Girolami
+
+Fabio Anza
+
+(and many more)
 
 
 
