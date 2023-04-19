@@ -5,4 +5,14 @@ permalink: /IS/
 ---
 (potential list)
 
-### TBA
+## Wojciech Zurek*
+## David Girolami
+## Fabio Anza
+
+
+
+
+
+
+
+*to be confirmed
