@@ -5,11 +5,11 @@ permalink: /IS/
 ---
 
 
-Wojciech Zurek*
+Wojciech Zurek* - Los Alamos National Laboratory
 
-David Girolami
+David Girolami - Polytechnic of Turin
 
-Fabio Anza
+Fabio Anza - University of California
 
 (and many more)
 
