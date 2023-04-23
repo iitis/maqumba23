@@ -7,9 +7,9 @@ permalink: /IS/
 
 Wojciech Zurek* - Los Alamos National Laboratory
 
-David Girolami - Polytechnic of Turin
+Davide Girolami - Polytechnic of Turin
 
-Fabio Anza - University of California
+Fabio Anza - 
 
 (and many more)
 
