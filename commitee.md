@@ -3,7 +3,7 @@ layout: page
 title: Commitee
 permalink: /commitee/
 ---
-## Program committee:
+## Steering committee:
 
 * Morad El Baz - Mohammed V University in Rabat
 
@@ -23,11 +23,22 @@ permalink: /commitee/
 
 * Łukasz Pawela - Institute of Theoretical and Applied Informatics, Polish Academy of Sciences
 
+## Program comittee:
+
+* Karol Życzkowski - Jagiellonian University
+
+* Morad El Baz - Mohammed V University in Rabat
+
+* Zbigniew Puchała - Institute of Theoretical and Applied Informatics, Polish Academy of Sciences
+
+* Kamil Korzekwa - Jagiellonian University
+
+
 ## Organising committee:
 
 * Kamil Korzekwa - Jagiellonian University
 
-* Maria Stawska - 
+* Maria Stawska 
 
 * Zbigniew Puchała - Institute of Theoretical and Applied Informatics, Polish Academy of Sciences
 
