@@ -11,6 +11,11 @@ Davide Girolami - Polytechnic of Turin
 
 Fabio Anza - 
 
+Mauro Paternostro - Queen's University Belfast
+
+Zoltan Zimboras - Wigner Research Center for Physics
+
+
 (and many more)
 
 
