@@ -17,10 +17,6 @@ Stephen Bartlett* - University of Sydney
 
 Omar Fawzi - École Normale Supérieure de Lyon
 
-Wojciech Zaremba* - OpenAI
-
-Terry Rudolph* - PsiQuantum
-
 Davide Girolami - Polytechnic of Turin
 
 Fabio Anza - 
