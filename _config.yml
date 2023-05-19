@@ -23,8 +23,8 @@ email: quantumconference@iitis.pl
 description: >- # this means to ignore newlines until "baseurl:"
   ## 18-22 September, 2023. Faculty of Sciences in Rabat, Morocco.
   
-baseurl: "/qmorocco" # the subpath of your site, e.g. /blog
-url: "https://iitis.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://quantummorocco.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 twitter_username: maqumba
 instagram_username:  maqumba
@@ -47,13 +47,13 @@ copyright:             © 2023. All rights reserved.
 
 menu:
   - title: Invited Speakers
-    url:  /qmorocco/IS/  
+    url:  /IS/  
   - title: Commitee
-    url:   /qmorocco/commitee/
+    url:   /commitee/
   - title: Program
-    url:   /qmorocco/program/
+    url:   /program/
   - title: Logistics
-    url:   /qmorocco/accomodation/
+    url:   /accomodation/
 
 
 
