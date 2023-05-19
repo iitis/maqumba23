@@ -5,21 +5,33 @@ permalink: /IS/
 ---
 
 
-Wojciech Zurek* - Los Alamos National Laboratory
+Wojciech Żurek* - Los Alamos National Laboratory
+
+Paweł Horodecki - Gdańsk University of Technology
+
+Marek Żukowski* - University of Gdańsk
+
+Mauro Paternostro - Queen's University Belfast
+
+Stephen Bartlett* - University of Sydney
+
+Omar Fawzi - École Normale Supérieure de Lyon
+
+Wojciech Zaremba* - OpenAI
+
+Terry Rudolph* - PsiQuantum
 
 Davide Girolami - Polytechnic of Turin
 
 Fabio Anza - 
 
-Mauro Paternostro - Queen's University Belfast
+Özgür E. Müstecaplıoğlu - Koç University
 
 Zoltan Zimboras - Wigner Research Center for Physics
 
 
+
 (and many more)
-
-
-
 
 
 
