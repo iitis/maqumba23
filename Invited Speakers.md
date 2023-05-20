@@ -19,11 +19,13 @@ Omar Fawzi - École Normale Supérieure de Lyon
 
 Davide Girolami - Polytechnic of Turin
 
-Fabio Anza - 
+Fabio Anza - Università degli Studi di Trieste
 
 Özgür E. Müstecaplıoğlu - Koç University
 
 Zoltan Zimboras - Wigner Research Center for Physics
+
+Jess Riedel -  NTT Research - Physics & Informatics Lab 
 
 
 
