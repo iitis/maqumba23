@@ -30,8 +30,4 @@ Jess Riedel -  NTT Research - Physics & Informatics Lab
 Łukasz Rudnicki - University of Gdańsk
 
 
-(and many more)
-
-
-
 *to be confirmed
