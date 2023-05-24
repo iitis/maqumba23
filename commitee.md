@@ -17,8 +17,6 @@ permalink: /commitee/
 
 * Kamil Korzekwa - Jagiellonian University
 
-* Yassine Hassouni - Mohammed V University in Rabat
-
 * Michał Oszmaniec - Center for Theoretical Physics, Polish Academy of Sciences
 
 * Zbigniew Puchała - Institute of Theoretical and Applied Informatics, Polish Academy of Sciences
@@ -51,4 +49,6 @@ permalink: /commitee/
 * Łukasz Pawela - Institute of Theoretical and Applied Informatics, Polish Academy of Sciences
 
 * Akram Touil - University of Maryland, Baltimore County
+
+* Yassine Hassouni - Mohammed V University in Rabat
 
