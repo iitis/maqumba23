@@ -9,6 +9,8 @@ Wojciech Żurek* - Los Alamos National Laboratory
 
 Paweł Horodecki - Gdańsk University of Technology
 
+Anna Sanpera - ICREA & Universitat Autònoma Barcelona
+
 Marek Żukowski* - University of Gdańsk
 
 Mauro Paternostro - Queen's University Belfast
@@ -28,6 +30,5 @@ Zoltan Zimboras - Wigner Research Center for Physics
 Jess Riedel -  NTT Research - Physics & Informatics Lab 
 
 Łukasz Rudnicki - University of Gdańsk
-
 
 *to be confirmed
