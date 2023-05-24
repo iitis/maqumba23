@@ -13,6 +13,8 @@ Anna Sanpera - ICREA & Universitat Autònoma Barcelona
 
 Marek Żukowski* - University of Gdańsk
 
+Erol Gelenbe - Institute of Theoretical and Applied Informatics, Polish Academy of Sciences
+
 Mauro Paternostro - Queen's University Belfast
 
 Stephen Bartlett* - University of Sydney
