@@ -4,33 +4,32 @@ title: Invited Speakers
 permalink: /Invited Speakers/
 ---
 
-
-Wojciech Żurek* - Los Alamos National Laboratory
-
-Paweł Horodecki - Gdańsk University of Technology
-
-Anna Sanpera - ICREA & Universitat Autònoma Barcelona
-
-Marek Żukowski* - University of Gdańsk
-
-Erol Gelenbe - Institute of Theoretical and Applied Informatics, Polish Academy of Sciences
-
-Mauro Paternostro - Queen's University Belfast
+Fabio Anza - Università degli Studi di Trieste
 
 Stephen Bartlett* - University of Sydney
 
 Omar Fawzi - École Normale Supérieure de Lyon
 
+Erol Gelenbe - Institute of Theoretical and Applied Informatics, Polish Academy of Sciences
+
 Davide Girolami - Polytechnic of Turin
 
-Fabio Anza - Università degli Studi di Trieste
+Paweł Horodecki - Gdańsk University of Technology
 
 Özgür E. Müstecaplıoğlu - Koç University
 
-Zoltan Zimboras - Wigner Research Center for Physics
+Mauro Paternostro - Queen's University Belfast
 
 Jess Riedel -  NTT Research - Physics & Informatics Lab 
 
 Łukasz Rudnicki - University of Gdańsk
+
+Anna Sanpera* - ICREA & Universitat Autònoma Barcelona
+
+Zoltan Zimboras - Wigner Research Center for Physics
+
+Marek Żukowski* - University of Gdańsk
+
+Wojciech Żurek* - Los Alamos National Laboratory
 
 *to be confirmed
