@@ -10,7 +10,7 @@ Stephen Bartlett* - University of Sydney
 
 Omar Fawzi - École Normale Supérieure de Lyon
 
-Erol Gelenbe - Institute of Theoretical and Applied Informatics, Polish Academy of Sciences
+Erol Gelenbe* - Institute of Theoretical and Applied Informatics, Polish Academy of Sciences
 
 Davide Girolami - Polytechnic of Turin
 
