@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Commitee
-permalink: /commitee/
+title: Contact
+permalink: /contact/
 ---
 
 
