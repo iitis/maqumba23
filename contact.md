@@ -6,4 +6,4 @@ permalink: /contact/
 
 
 
-## All inquiries should be sent to quantummorocco@gmail.com
+### All inquiries should be sent to <quantummorocco@gmail.com>
