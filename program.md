@@ -3,7 +3,14 @@ layout: page
 title: Program
 permalink: /program/
 ---
-TBA
+
+## Scientific program
+
+The scientific program will be announced closer to the date.
+
+## Other activities
+
+A conference dinner and a half-day sightseeing trip will be organised and will be included in the conference fee. We will post more information soon.
 <!---
 |                   |Monday| Tuesday| Wednesday  | Thursday  | Friday  |
 |:-----------------:|:-----------:|:---------------:|---------------:|
