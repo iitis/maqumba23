@@ -7,13 +7,15 @@ permalink: /accomodation/
 ## How to get here
 The conference will take place in <a href="https://goo.gl/maps/bxfKYeqq2ZUMAQRC9">**The Faculty of Sciences, 4 Avenue Ibn Battouta, Rabat**</a>, which can be reached from Rabat-Salé Airport by:
 <ol>
-  <li>Taxi: A taxis station is located at the exit of the airport. Fares are displayed in the Public Hall and in the Taxi Parking for the various destinations. A fare to Rabat city center cost 150MAD (200MAD) during the day (during the night).   </li>
-  <li>Airport bus: A <a href="https://goo.gl/maps/momK45W11EggkRCH7">shuttle bus</a> to Rabat Ville train station is located at the entrance of the airport, and the ticket price is 25MAD. From Rabat Ville train station you can reach the Faculty of Sciences via:
+  <li>Taxi: A taxis station is located at the exit of the airport. Fares are displayed in the Public Hall and in the Taxi Parking for the various destinations. A fare to Rabat city center cost 150MAD (200MAD) during the day (during the night).</li>
+  <li>Airport bus: A <a href="https://goo.gl/maps/momK45W11EggkRCH7">shuttle bus</a> to Rabat Ville train station is located at the entrance of the airport, and the ticket price is 25MAD. From Rabat Ville train station you can reach the Faculty of Sciences via:</li>
     <ul>
     <li>Small blue Taxis located in front of the train station.</li>
     <li>A tramway ride for one station. Ticket price is 6MAD, which can be purchased from the ticket machine(the machine accepts ONLY coins) in the station or using the app ( <a href="https://play.google.com/store/apps/details?id=fr.airweb.rabat&hl=en&gl=US">Android</a>, <a href="https://apps.apple.com/ma/app/tram-mobile/id1588746412">iOS</a>) .</li>
     <li><a href="https://goo.gl/maps/4zRK5LzmiiQ5wTGJ8">Walk</a> for 15min.</li>
-    </ul> </ol> 
+    </ul> 
+ </ol> 
+
 
 ## Hotels
 The Faculty of Sciences is currently negotating group prices with nearby hotels. We will soon provide a list of selected hotels with contact details.
