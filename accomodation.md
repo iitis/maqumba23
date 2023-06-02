@@ -26,4 +26,4 @@ Light refreshments will be served during coffee breaks in the morning and in the
 ## Invitation letter for Visa
 The organizers can provide invitation letters for participants needing a visa to enter Morocco. Please submit your request at quantummorocco@gmail.com.
 
-[List of countries whose citizens are exempted from entry visa into Morocco](https://www.consulat.ma/en/list-countries-agreements-signed-morocco-abolition-visas-official-passports/?target=_blank)
+<a href="https://www.consulat.ma/en/list-countries-agreements-signed-morocco-abolition-visas-official-passports" target="_blank">**List of countries whose citizens are exempted from entry visa into Morocco**</a>
