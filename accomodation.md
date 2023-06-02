@@ -13,8 +13,7 @@ The conference will take place in <a href="https://goo.gl/maps/bxfKYeqq2ZUMAQRC9
     <li>Small blue Taxis located in front of the train station.</li>
     <li>A tramway ride for one station. Ticket price is 6MAD, which can be purchased from the ticket machine(the machine accepts ONLY coins) in the station or using the app ( <a href="https://play.google.com/store/apps/details?id=fr.airweb.rabat&hl=en&gl=US">Android</a>, <a href="https://apps.apple.com/ma/app/tram-mobile/id1588746412">iOS</a>) .</li>
     <li><a href="https://goo.gl/maps/4zRK5LzmiiQ5wTGJ8">Walk</a> for 15min.</li>
-    </ul>
-</ol> 
+    </ul> </ol> 
 
 ## Hotels
 The Faculty of Sciences is currently negotating group prices with nearby hotels. We will soon provide a list of selected hotels with contact details.
