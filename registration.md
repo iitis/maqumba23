@@ -4,4 +4,4 @@ title: Registration
 permalink: /registration/
 ---
 
-## TBA
+Registration will start in July 2023.
