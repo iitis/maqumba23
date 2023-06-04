@@ -42,8 +42,9 @@ google_fonts: Playfair+Display:400|Playfair+Display:600
 
 accent_image:          /assets/img/blog/rabat.jpg
 defaults:
-  - scope:
-      path:         hydejack/
+  -
+    scope:
+      path: "" 
     values:
       invert_sidebar: true
 
