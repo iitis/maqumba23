@@ -26,8 +26,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://quantummorocco.com" # the base hostname & protocol for your site, e.g. http://example.com
 
-twitter_username: maqumba
-instagram_username:  maqumba
+twitter_username: QuantumMorocco
+instagram_username:  QuantumMorocco
 
 # Build settings
 #theme: jekyll-theme-hydejack
