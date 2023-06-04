@@ -41,12 +41,6 @@ font_heading: Playfair Display
 google_fonts: Playfair+Display:400|Playfair+Display:600
 
 accent_image:          /assets/img/blog/rabat.jpg
-defaults:
-  -
-    scope:
-      path: "" 
-    values:
-      invert_sidebar: true
 
 copyright:             © 2023. All rights reserved.
 
