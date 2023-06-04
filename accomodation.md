@@ -6,6 +6,7 @@ permalink: /accomodation/
 
 ## How to get here
 ![](https://scontent-waw1-1.xx.fbcdn.net/v/t1.6435-9/162981085_383779136178521_5628233980442523913_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=e3f864&_nc_ohc=OmSWm6vvsF0AX8LyqxI&_nc_ht=scontent-waw1-1.xx&oh=00_AfBEvXg_zOnBeWVyAiuvXL4E3cpLH0p8LIUP5-mVSfuo1Q&oe=64A15315)
+
 The conference will take place in <a href="https://goo.gl/maps/bxfKYeqq2ZUMAQRC9" target="_blank">**The Faculty of Sciences, 4 Avenue Ibn Battouta, Rabat**</a>, which can be reached from Rabat-Salé Airport by:
 <ol>
   <li>Taxi: A taxis station is located at the exit of the airport. Fares are displayed in the Public Hall and in the Taxi Parking for the various destinations. A fare to Rabat city center cost 150MAD (200MAD) during the day (during the night).</li>
