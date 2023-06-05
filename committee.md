@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Committee
-permalink: /commitee/
+permalink: /committee/
 ---
 ## Steering committee:
 
