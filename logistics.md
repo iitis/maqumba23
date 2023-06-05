@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Logistics
-permalink: /accomodation/
+permalink: /logistics/
 ---
 
 ## How to get here
