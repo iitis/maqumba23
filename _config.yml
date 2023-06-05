@@ -36,6 +36,8 @@ remote_theme: hydecorp/hydejack@v9.1.6
 plugins:
   - jekyll-feed
 
+accent_image: /assets/img/sidebar-bg.jpg
+
 font:         Montserrat, Helvetica, Arial, sans-serif
 font_heading: Noto Sans, Helvetica, Arial, sans-serif
 google_fonts: Montserrat:wght@200:700|Noto+Sans:wght@200:400,400i,700,700i
