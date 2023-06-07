@@ -4,4 +4,4 @@ title: Call for Submissions
 permalink: /submissions/
 ---
 
-Call for submissions (oral and poster) should be open on Wednesday, 07 Jun 2023.
+The call for submissions is [open](https://forms.gle/LhxMumZTSoC9nZYC7) for poster and oral presentations. **The deadline is July 21th, 2023.**
