@@ -6,8 +6,6 @@ permalink: /Invited Speakers/
 
 Fabio Anza - Università degli Studi di Trieste
 
-Stephen Bartlett* - University of Sydney
-
 Omar Fawzi - École Normale Supérieure de Lyon
 
 Erol Gelenbe* - Institute of Theoretical and Applied Informatics, Polish Academy of Sciences
