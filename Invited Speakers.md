@@ -26,6 +26,8 @@ Jess Riedel -  NTT Research - Physics & Informatics Lab
 
 Anna Sanpera* - ICREA & Universitat Autònoma Barcelona
 
+Avadh Saxena - Los Alamos National Laboratory
+
 Zoltan Zimboras - Wigner Research Center for Physics
 
 Marek Żukowski* - University of Gdańsk
