@@ -23,7 +23,7 @@ permalink: /committee/
 
 * Łukasz Pawela - Institute of Theoretical and Applied Informatics, Polish Academy of Sciences
 
-## Program comittee:
+## Program committee:
 
 * Karol Życzkowski - Jagiellonian University
 
@@ -34,7 +34,7 @@ permalink: /committee/
 * Kamil Korzekwa - Jagiellonian University
 
 
-## Organising committee:
+## Organizing committee:
 
 * Kamil Korzekwa - Jagiellonian University
 
@@ -51,4 +51,18 @@ permalink: /committee/
 * Akram Touil - University of Maryland, Baltimore County
 
 * Yassine Hassouni - Mohammed V University in Rabat
+
+## Local organizing committee:
+
+* Adil Belhaj - Mohammed V University in Rabat
+
+* Morad El Baz - Mohammed V University in Rabat
+  
+* Abderrahim El Allati - Abdelmalek Essaâdi University
+  
+* Yassine Hassouni - Mohammed V University in Rabat
+  
+* Hasnaa Hajji - Mohammed V University in Rabat
+  
+* Oumayma El Bir - Mohammed V University in Rabat
 
