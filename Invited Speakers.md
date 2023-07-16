@@ -24,7 +24,7 @@ Jess Riedel -  NTT Research - Physics & Informatics Lab
 
 Łukasz Rudnicki - University of Gdańsk
 
-Anna Sanpera* - ICREA & Universitat Autònoma Barcelona
+Anna Sanpera - ICREA & Universitat Autònoma Barcelona
 
 Avadh Saxena - Los Alamos National Laboratory
 
