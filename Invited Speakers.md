@@ -32,6 +32,6 @@ Zoltan Zimboras - Wigner Research Center for Physics
 
 Marek Żukowski* - University of Gdańsk
 
-Wojciech Żurek* - Los Alamos National Laboratory
+Wojciech Żurek - Los Alamos National Laboratory
 
 *to be confirmed
