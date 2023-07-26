@@ -3,6 +3,7 @@ layout: page
 title: Invited Speakers
 permalink: /Invited Speakers/
 ---
+Dominik Andrzejczuk - QDC
 
 Fabio Anza - Università degli Studi di Trieste
 
