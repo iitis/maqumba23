@@ -9,8 +9,6 @@ Fabio Anza - Università degli Studi di Trieste
 
 Omar Fawzi - École Normale Supérieure de Lyon
 
-Erol Gelenbe* - Institute of Theoretical and Applied Informatics, Polish Academy of Sciences
-
 Davide Girolami - Polytechnic of Turin
 
 Paweł Horodecki - Gdańsk University of Technology
@@ -30,8 +28,6 @@ Anna Sanpera - ICREA & Universitat Autònoma Barcelona
 Avadh Saxena - Los Alamos National Laboratory
 
 Zoltan Zimboras - Wigner Research Center for Physics
-
-Marek Żukowski* - University of Gdańsk
 
 Wojciech Żurek - Los Alamos National Laboratory
 
