@@ -22,7 +22,7 @@ The regular registration fee covers lunches, coffee breaks, a conference dinner,
   
   <li>Payment</li>
   
-  You need to transfer your registration fees <strong>only by bank transfer</strong> to the account below. Please make sure that the bank transfer is free of charge for the beneficiary.
+  You need to transfer your registration fee <strong>only by a bank transfer</strong> to the account below. Please make sure that the bank transfer is free of charge for the beneficiary.
     <ul>
       <li><strong>Bank Name</strong>: Bank Al Maghrib</li>
       <li><strong>Bank account number/IBAN</strong>: 310 810 1000024 7020339 01 48</li>
@@ -32,7 +32,7 @@ The regular registration fee covers lunches, coffee breaks, a conference dinner,
       <li><strong>Address of beneficiary</strong>: Faculty of Sciences, 4 Avenue Ibn Battouta B.P. 1014 RP, Rabat 10 000 Morocco.</li>
     </ul> 
     
-  <li>Send email and attach the payment confirmation receipt</li>
+  <li>Send us an email and attach the payment confirmation receipt</li>
   
   To complete the registration process, please send an email to <quantummorocco@gmail.com> attaching your payment confirmation/receipt (e.g., PDF). 
   In the email, include the recipient name (person/institution) for who/which the invoice must be issued and the full address for the invoice 
