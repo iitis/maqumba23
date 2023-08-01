@@ -7,7 +7,9 @@ permalink: /registration/
 Please read the following information carefully before completing the registration form.
 
 ## Registration Fees
+
 To attend the conference, you must register under one of the following registration categories:
+
 | Attendees  | Early: before September 1st, 2023 	| Late: after September 1st, 2023|
 |:-----------------:|:-----------:|:---------------:|
 | Regular    | 320€ | 420€ |
@@ -19,6 +21,7 @@ To attend the conference, you must register under one of the following registrat
  Please use this <a href="https://docs.google.com/forms/d/e/1FAIpQLSd1smFFTdgDn-kiUvgRBjFzEmDpUkw8R4IUevqk-cmE89sscQ/viewform" target="_blank">form</a> to register
   
   <li>Payment</li>
+  
   You need to transfer your registration fees <strong>only by bank transfer</strong> to the account below. Please make sure that the bank transfer is free of charge for the beneficiary.
     <ul>
       <li><strong>Bank Name</strong>: Bank Al Maghrib</li>
@@ -38,4 +41,5 @@ To attend the conference, you must register under one of the following registrat
   Once received your email, and as soon as we receive the payment in the university bank account, we will send you an email to confirm that the registration completed successfully. 
   Note that this could take more than one week.
 </ol> 
+
 If you have any questions or concerns regarding the registration process, please do not hesitate to contact us at <quantummorocco@gmail.com>
