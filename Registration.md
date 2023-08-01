@@ -13,7 +13,7 @@ To attend the conference, you must register under one of the following registrat
 | Regular    | 320€ | 420€ |
 | Full board | 820€ | 920€ |
 
-The regular registration fee covers lunch, coffee breaks, one dinner, and the trip to the historical sites of Rabat and Salé. The full board option includes also a single room in a 4-star Hotel.
+The regular registration fee covers lunches, coffee breaks, a conference dinner, and a trip to the historical sites of Rabat and Salé. The full board option also includes accommodation in a single room in a 4-star Hotel for 5 nights (17-22 Sep).
 
 ## Registration Process
 <ol>
