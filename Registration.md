@@ -34,7 +34,7 @@ The regular registration fee covers lunches, coffee breaks, a conference dinner,
     
   <li>Send us an email and attach the payment confirmation receipt</li>
   
-  To complete the registration process, please send an email to <quantummorocco@gmail.com> attaching your payment confirmation/receipt (e.g., PDF). 
+  To complete the registration process, please send an [email](mailto:quantummorocco@gmail.com) attaching your payment confirmation/receipt (e.g., PDF). 
   In the email, include the recipient name (person/institution) for who/which the invoice must be issued and the full address for the invoice 
   (otherwise, the address provided in the registration form will be used).
     
