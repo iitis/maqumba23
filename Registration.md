@@ -25,7 +25,7 @@ The regular registration fee covers lunches, coffee breaks, a conference dinner,
   You need to transfer your registration fees <strong>only by bank transfer</strong> to the account below. Please make sure that the bank transfer is free of charge for the beneficiary.
     <ul>
       <li><strong>Bank Name</strong>: Bank Al Maghrib</li>
-      <li><strong>Bank account number</strong>: 310 810 1000024 7020339 01 48</li>
+      <li><strong>Bank account number/IBAN</strong>: 310 810 1000024 7020339 01 48</li>
       <li><strong>SWIFT</strong>: BKAMMAMR</li>
       <li><strong>Beneficiary</strong>: UMV de Rabat FSR QuantumMorocco</li>
       <li><strong>Bank address</strong>: Agence Bancaire Centrale – Bank Al Maghrib Av Ennakhil, Hay Riad Rabat, Morocco</li>
