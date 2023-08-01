@@ -5,15 +5,15 @@ permalink: /registration/
 ---
 
 Please read the following information carefully before completing the registration form.
-
 ## Registration Fees
-
 To attend the conference, you must register under one of the following registration categories:
 
 | Attendees  | Early: before September 1st, 2023 	| Late: after September 1st, 2023|
 |:-----------------:|:-----------:|:---------------:|
 | Regular    | 320€ | 420€ |
 | Full board | 820€ | 920€ |
+
+The regular registration fee covers lunch, coffee breaks, one dinner, and the trip to the historical sites of Rabat and Salé. The full board option includes also a single room in a 4-star Hotel.
 
 ## Registration Process
 <ol>
@@ -33,6 +33,7 @@ To attend the conference, you must register under one of the following registrat
     </ul> 
     
   <li>Send email and attach the payment confirmation receipt</li>
+  
   To complete the registration process, please send an email to <quantummorocco@gmail.com> attaching your payment confirmation/receipt (e.g., PDF). 
   In the email, include the recipient name (person/institution) for who/which the invoice must be issued and the full address for the invoice 
   (otherwise, the address provided in the registration form will be used).
