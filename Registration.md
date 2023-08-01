@@ -39,6 +39,7 @@ The regular registration fee covers lunches, coffee breaks, a conference dinner,
   (otherwise, the address provided in the registration form will be used).
     
   <li>Confirmation email</li>
+  
   Once received your email, and as soon as we receive the payment in the university bank account, we will send you an email to confirm that the registration completed successfully. 
   Note that this could take more than one week.
 </ol> 
