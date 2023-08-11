@@ -7,6 +7,10 @@ Dominik Andrzejczuk - QDC
 
 Fabio Anza - Università degli Studi di Trieste
 
+Dariusz Chruściński -  Nicolaus Copernicus University
+
+Lukasz Cincio - Los Alamos National Laboratory
+
 Omar Fawzi - École Normale Supérieure de Lyon
 
 Davide Girolami - Polytechnic of Turin
