@@ -6,11 +6,11 @@ permalink: /program/
 
 ## Scientific program
 
-The scientific program will be announced closer to the date.
+The scientific program is available <a href="https://drive.google.com/file/d/18FbsjyKWlQ8qNrw-MSNfWUefTrtZ5Xqk/view?usp=drive_link" target="_blank" > here </a>
 
 ## Other activities
 
-A conference dinner and a half-day sightseeing trip will be organised and will be included in the conference fee. We will post more information soon.
+A conference dinner and a half-day sightseeing trip will be organized and will be included in the conference fee. We will post more information soon.
 <!---
 |                   |Monday| Tuesday| Wednesday  | Thursday  | Friday  |
 |:-----------------:|:-----------:|:---------------:|---------------:|
