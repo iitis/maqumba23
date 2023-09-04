@@ -8,10 +8,10 @@ Please read the following information carefully before completing the registrati
 ## Registration Fees
 To attend the conference, you must register under one of the following registration categories:
 
-| Attendees  | Early: before September 1st, 2023 	| Late: from September 1st, 2023|
-|:-----------------:|:-----------:|:---------------:|
-| Regular    | 320€ | 420€ |
-| Full board | 820€ | 920€ |
+| Attendees  |  Amount |
+|:-----------------:|:---------------:|
+| Regular    | 420€ |
+| Full board | 920€ |
 
 The regular registration fee covers lunches, coffee breaks, a conference dinner, and a trip to the historical sites of Rabat and Salé. The full board option also includes accommodation in a single room in a 4-star Hotel for 5 nights (17-22 Sep).
 
