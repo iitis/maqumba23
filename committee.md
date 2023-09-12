@@ -66,3 +66,5 @@ permalink: /committee/
   
 * Oumayma El Bir - Mohammed V University in Rabat
 
+* Abdellah Slaoui - Mohammed V University in Rabat
+
