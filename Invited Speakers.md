@@ -33,4 +33,4 @@ Avadh Saxena - Los Alamos National Laboratory
 
 Zoltan Zimboras - Wigner Research Center for Physics
 
-Wojciech Żurek - Los Alamos National Laboratory
+Karol Życzkowski - Jagiellonian University
