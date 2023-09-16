@@ -17,7 +17,7 @@ Davide Girolami - Polytechnic of Turin
 
 Paweł Horodecki - Gdańsk University of Technology
 
-Richard Jozsa - University of Cambridge
+Richard Jozsa* - University of Cambridge
 
 Özgür E. Müstecaplıoğlu - Koç University
 
