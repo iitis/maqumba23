@@ -9,8 +9,10 @@ permalink: /program/
 The scientific program is available <a href="https://drive.google.com/file/d/1aLt4Fy3z8IB05c-D-yPEwMyDPBif4SUc/view?usp=sharing" target="_blank" > here </a>
 
 ## Other activities
+A conference dinner* and a half-day sightseeing trip will be organized and will be included in the conference fee. We will post more information soon.
 
-A conference dinner and a half-day sightseeing trip will be organized and will be included in the conference fee. We will post more information soon.
+*In light of the recent earthquake that hit the region of Marrakech, the organization committee of Quantum Morocco decided to cancel the conference dinner and re-direct its funds to <a href="https://www.bkam.ma/en/News/2023/Make-your-donations-to-the-special-fund" target="_blank" > the special fund </a>
+ for the earthquake victims. The special fund is directed by Bank Al Maghrib, which is the central bank of Morocco.
 <!---
 |                   |Monday| Tuesday| Wednesday  | Thursday  | Friday  |
 |:-----------------:|:-----------:|:---------------:|---------------:|
