@@ -6,7 +6,7 @@ permalink: /program/
 
 ## Scientific program
 
-The scientific program is available <a href="https://drive.google.com/file/d/1X8TB9RnKvIgnmavFbx_Px4ioMWBRMNyj/view?usp=sharing" target="_blank" > here </a>
+The scientific program is available <a href="https://drive.google.com/file/d/1aLt4Fy3z8IB05c-D-yPEwMyDPBif4SUc/view?usp=sharing" target="_blank" > here </a>
 
 ## Other activities
 
