@@ -8,6 +8,8 @@ permalink: /program/
 
 The scientific program is available <a href="https://drive.google.com/file/d/16mu-QyalBbpmFiZfKlyUPtScEmJyA6Ap/view?usp=sharing" target="_blank" > here </a>
 
+The list of posters is available <a href="https://drive.google.com/file/d/1QY2NvJLi63ZHr1la677ShEQf4B2AvIAA/view?usp=sharing" > here </a> 
+
 ## Other activities
 A conference dinner* and a half-day sightseeing trip will be organized and will be included in the conference fee. We will post more information soon.
 
