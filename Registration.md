@@ -3,7 +3,8 @@ layout: page
 title: Registration
 permalink: /registration/
 ---
-
+Registration is now closed
+<!---
 Please read the following information carefully before completing the registration form.
 ## Registration Fees
 To attend the conference, you must register under one of the following registration categories:
@@ -46,3 +47,4 @@ The regular registration fee covers lunches, coffee breaks, a conference dinner,
 </ol> 
 
 If you have any questions or concerns regarding the registration process, please do not hesitate to contact us at <quantummorocco@gmail.com>
+--->
