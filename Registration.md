@@ -4,6 +4,7 @@ title: Registration
 permalink: /registration/
 ---
 Registration is now closed
+
 <!---
 Please read the following information carefully before completing the registration form.
 ## Registration Fees
