@@ -6,7 +6,7 @@ permalink: /Invited Speakers/
 **Dominik Andrzejczuk - QDC**<br>
 <em>Solving Disruption Problems in Real-Time for Airlines and Railways using Physics and Quantum Inspired Approaches: The Holy Grail in Transportation Optimization Today </em>.
 
-**Fabio Anza - Università degli Studi di Trieste**<br>
+**Fabio Anza - Università degli Studi di Trieste** <br>
 <em>Microscopic and Emergent Dynamics of quantum information flows</em>.
 
 **Dariusz Chruściński -  Nicolaus Copernicus University**<br>
