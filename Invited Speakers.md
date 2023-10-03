@@ -18,9 +18,6 @@ permalink: /Invited Speakers/
 **Omar Fawzi - École Normale Supérieure de Lyon**<br>
 <em>Certification of quantum channels</em>.
 
-**Łukasz Pawela - Institute of Theoretical and Applied Informatics, Polish Academy of Sciences**<br>
-<em>Simulating Quantum Architectures</em>.
-
 **Paweł Horodecki - Gdańsk University of Technology**<br>
 <em>Unbounded quantum advantage</em>.
 
@@ -29,6 +26,9 @@ permalink: /Invited Speakers/
 
 **Mauro Paternostro - Queen's University Belfast**<br>
 <em>Quantum neuromorphic approach for efficient sensing of gravity-induced entanglement</em>.
+
+**Łukasz Pawela - Institute of Theoretical and Applied Informatics, Polish Academy of Sciences**<br>
+<em>Simulating Quantum Architectures</em>.
 
 **Jess Riedel -  NTT Research - Physics & Informatics Lab**<br>
 <em>Defining wavefunction branches: Taylor-McCulloch, Weingarten, ETH, and general desiderata</em>.
