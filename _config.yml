@@ -46,6 +46,8 @@ copyright:             © 2023. All rights reserved.
 
 
 menu:
+  - title: Group Photo
+    url: /photo/
   - title: Invited Speakers
     url:  /Invited Speakers/  
   - title: Registration
