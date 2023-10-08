@@ -3,7 +3,7 @@ layout: page
 title: Logistics
 permalink: /logistics/
 ---
-
+<!---
 ## How to get here
 ![](https://scontent-waw1-1.xx.fbcdn.net/v/t1.6435-9/162981085_383779136178521_5628233980442523913_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=e3f864&_nc_ohc=OmSWm6vvsF0AX8LyqxI&_nc_ht=scontent-waw1-1.xx&oh=00_AfBEvXg_zOnBeWVyAiuvXL4E3cpLH0p8LIUP5-mVSfuo1Q&oe=64A15315)
 
@@ -29,3 +29,4 @@ Light refreshments will be served during coffee breaks in the morning and in the
 The organizers can provide invitation letters for participants needing a visa to enter Morocco. Please submit your request at quantummorocco@gmail.com.
 
 <a href="https://www.consulat.ma/en/list-countries-agreements-signed-morocco-abolition-visas-official-passports" target="_blank">**List of countries whose citizens are exempted from entry visa into Morocco**</a>
+--->
