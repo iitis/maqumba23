@@ -20,7 +20,7 @@
 
 title: Quantum Morocco 2
 email: quantummorocco@gmail.com
-description:  # this means to ignore newlines until "baseurl:"
+description:>-  # this means to ignore newlines until "baseurl:"
   ## 14-25 October, 2024.   
   ## Al Akhawayn University in Ifrane, Morocco.
   
@@ -47,7 +47,7 @@ copyright:             © 2023. All rights reserved.
 
 
 menu:
-  - title: First edition
+  - title: First Edition
     url: /1edition/
   - title: Invited Speakers
     url:  /Invited Speakers/  
