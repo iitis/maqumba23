@@ -21,8 +21,7 @@
 title: Quantum Morocco 2
 email: quantummorocco@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  ## 14-25 October, 2024. 
-  Al Akhawayn University in Ifrane, Morocco.
+  ## 14-25 October, 2024. \n Al Akhawayn University in Ifrane, Morocco.
   
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://quantummorocco.com" # the base hostname & protocol for your site, e.g. http://example.com
