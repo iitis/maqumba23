@@ -3,9 +3,10 @@ layout: page
 title: Registration
 permalink: /registration/
 ---
-Registration is now closed
 
 <!---
+Registration is now closed
+
 Please read the following information carefully before completing the registration form.
 ## Registration Fees
 To attend the conference, you must register under one of the following registration categories:
