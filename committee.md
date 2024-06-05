@@ -19,6 +19,7 @@ permalink: /committee/
 * Morad El Baz - Mohammed V University in Rabat
 * Kamil Korzekwa - Jagiellonian University
 * Zakaria Mzaouali - Institute of Theoretical and Applied Informatics, Polish Academy of Sciences
+* Łukasz Pawela - Institute of Theoretical and Applied Informatics, Polish Academy of Sciences
 * Zbigniew Puchała - Institute of Theoretical and Applied Informatics, Polish Academy of Sciences
 * Akram Touil - Los Alamos National Laboratory
 
