@@ -4,10 +4,11 @@ title: Invited Speakers
 permalink: /Invited Speakers/
 ---
 # Speakers
-### Avadh Saxena
-### Karol Życzkowski
-### Wojciech Żurek
 ### Piotr Gawron
+### Marcin Pawłowski
+### Avadh Saxena
+### Wojciech Żurek
+### Karol Życzkowski
 and many more
 
 # Tutors
