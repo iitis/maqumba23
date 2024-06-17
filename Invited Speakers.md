@@ -4,6 +4,7 @@ title: Invited Speakers
 permalink: /Invited Speakers/
 ---
 # Speakers
+### Adolfo del Campo
 ### Piotr Gawron
 ### Marcin Pawłowski
 ### Avadh Saxena
