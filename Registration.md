@@ -4,9 +4,11 @@ title: Registration
 permalink: /registration/
 ---
 
-<!---
-Registration is now closed
+We are pleased to announce that registration for the conference is now open. We have 80 funded places available, generously supported by the NATO Science for Peace and Security Program. These spots are limited and will be allocated on a first-come, first-served basis. To secure your place, please complete the registration <a href="https://docs.google.com/forms/d/e/1FAIpQLSdqQpigSM_TEI5uPJky7y31DWKS_WUtNucckqmOnne0hFVc0w/viewform" target="_blank">form</a>. We encourage you to register early to ensure your participation in this significant event. For more information, please visit our conference website. We look forward to your participation and contribution to the discussions.
 
+If you have any questions or concerns regarding the registration process, please do not hesitate to contact us at <quantummorocco@gmail.com>
+
+<!---
 Please read the following information carefully before completing the registration form.
 ## Registration Fees
 To attend the conference, you must register under one of the following registration categories:
