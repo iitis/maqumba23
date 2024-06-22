@@ -6,8 +6,10 @@ permalink: /Invited Speakers/
 # Speakers
 ### Adolfo del Campo
 University of Luxembourg. 
+### Aurelia Chenu
+University of Luxembourg.
 ### Piotr Gawron
-AstroCeNT / Nicolaus Copernicus Astronomical Center of the Polish Academy of Sciences
+AstroCeNT / Nicolaus Copernicus Astronomical Center of the Polish Academy of Sciences.
 ### Marcin Pawłowski
 Gdańsk University of Technology, Poland.
 ### Avadh Saxena
