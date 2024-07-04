@@ -10,6 +10,8 @@ University of Luxembourg.
 University of Luxembourg.
 ### Piotr Gawron
 AstroCeNT / Nicolaus Copernicus Astronomical Center of the Polish Academy of Sciences.
+### Jan-Åke Larsson
+Linköping University.
 ### Marcin Pawłowski
 Gdańsk University of Technology, Poland.
 ### Avadh Saxena
