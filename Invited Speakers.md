@@ -8,6 +8,8 @@ permalink: /Invited Speakers/
 University of Luxembourg. 
 ### Aurelia Chenu
 University of Luxembourg.
+### Diego Dalvit
+Los Alamos National Laboratory, USA.
 ### Piotr Gawron
 AstroCeNT / Nicolaus Copernicus Astronomical Center of the Polish Academy of Sciences.
 ### Jan-Åke Larsson
