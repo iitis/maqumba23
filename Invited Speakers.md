@@ -24,6 +24,7 @@ Los Alamos National Laboratory, USA.
 Los Alamos National Laboratory, USA.
 ### Karol Życzkowski
 Jagilonien University in Krakow, Poland.
+
 and many more
 
 # Tutors
