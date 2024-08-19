@@ -8,6 +8,8 @@ permalink: /Invited Speakers/
 University of Luxembourg. 
 ### Aurelia Chenu
 University of Luxembourg.
+### Dariusz Chruściński
+Nicolaus Copernicus University in Torun, Poland.
 ### Diego Dalvit
 Los Alamos National Laboratory, USA.
 ### Piotr Gawron
