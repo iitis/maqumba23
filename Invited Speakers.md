@@ -16,6 +16,8 @@ AstroCeNT / Nicolaus Copernicus Astronomical Center of the Polish Academy of Sci
 Linköping University.
 ### Marcin Pawłowski
 Gdańsk University of Technology, Poland.
+### David Rabanus
+Forschungszentrum Jülich GmbH
 ### Avadh Saxena
 Los Alamos National Laboratory, USA.
 ### Wojciech Żurek
